@@ -1,4 +1,5 @@
-https://www.notion.so/Mac-1aa320fc3eeb8063bbf2c2ab3001f5e8?pvs=4
+****
+公開サイト：https://shortcut-quiz-3a7l-git-main-aki-fukushimas-projects.vercel.app
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
